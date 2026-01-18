@@ -3,6 +3,8 @@
 [Documentation Link](https://dev.to/aws-builders/setting-up-a-cicd-pipeline-230p)
 
 ![Terraform Version](https://img.shields.io/badge/Terraform-1.7.3-blue.svg)
+
+# Project-0.2-GitHub-Actions-for-Terraform-Code-Deploy-CICD-Pipeline-for-EKS-Cluster-GitopsProduction
 # Terraform Configuration for AWS EKS Cluster
 
 ## Overview
